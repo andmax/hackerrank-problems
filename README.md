@@ -15,3 +15,4 @@ Solutions to interesting problems in Hacker Rank
 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [hr_attribute_parser.cpp](hr_attribute_parser.cpp) |
 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | [hr_exceptional_server.cpp](hr_exceptional_server.cpp) |
 | [Migration Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [hr_migration_birds.cpp](hr_migration_birds.cpp) |
+| [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | [hr_box_it.cpp](hr_box_it.cpp) |
