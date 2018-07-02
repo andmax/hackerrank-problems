@@ -14,7 +14,7 @@ Solutions to interesting problems in Hacker Rank
 | [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | [hr_cpp_variadics.cpp](hr_cpp_variadics.cpp) |
 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [hr_attribute_parser.cpp](hr_attribute_parser.cpp) |
 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | [hr_exceptional_server.cpp](hr_exceptional_server.cpp) |
-| [Migration Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [hr_migration_birds.cpp](hr_migration_birds.cpp) |
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [hr_migration_birds.cpp](hr_migration_birds.cpp) |
 | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | [hr_box_it.cpp](hr_box_it.cpp) |
 | [Lower Bound - STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | [hr_lower_bound.cpp](hr_lower_bound.cpp) |
 | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | [hr_pretty_print.cpp](hr_pretty_print.cpp) |
