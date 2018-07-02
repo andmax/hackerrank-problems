@@ -11,3 +11,4 @@ Solutions to interesting problems in Hacker Rank
 | [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | [hr_bit_array.cpp](hr_bit_array.cpp) |
 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | [hr_abstract_classes_polymorphism.cpp](hr_abstract_classes_polymorphism.cpp) |
 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | [hr_virtual_functions.cpp](hr_virtual_functions.cpp) |
+| [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | [hr_cpp_variadics.cpp](hr_cpp_variadics.cpp) |
