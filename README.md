@@ -8,3 +8,4 @@ Solutions to interesting problems in Hacker Rank
 | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem) | [hr_magic_spells.cpp](hr_magic_spells.cpp) |
 | [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops/problem) | [hr_attending_workshops.cpp](hr_attending_workshops.cpp) |
 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | [hr_big_sorting.cpp](hr_big_sorting.cpp) |
+| [Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem) | [hr_bit_array.cpp](hr_bit_array.cpp) |
