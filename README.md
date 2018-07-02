@@ -17,3 +17,4 @@ Solutions to interesting problems in Hacker Rank
 | [Migration Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [hr_migration_birds.cpp](hr_migration_birds.cpp) |
 | [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | [hr_box_it.cpp](hr_box_it.cpp) |
 | [Lower Bound - STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | [hr_lower_bound.cpp](hr_lower_bound.cpp) |
+| [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | [hr_pretty_print.cpp](hr_pretty_print.cpp) |
