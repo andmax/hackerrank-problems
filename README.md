@@ -12,4 +12,5 @@ Solutions to interesting problems in Hacker Rank
 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem) | [hr_abstract_classes_polymorphism.cpp](hr_abstract_classes_polymorphism.cpp) |
 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem) | [hr_virtual_functions.cpp](hr_virtual_functions.cpp) |
 | [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem) | [hr_cpp_variadics.cpp](hr_cpp_variadics.cpp) |
-| [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [hr_attribute_parser.cpp](hr_attribute_parser.cpp) | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | [hr_exceptional_server.cpp](hr_exceptional_server.cpp) |
+| [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem) | [hr_attribute_parser.cpp](hr_attribute_parser.cpp) |
+| [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | [hr_exceptional_server.cpp](hr_exceptional_server.cpp) |
